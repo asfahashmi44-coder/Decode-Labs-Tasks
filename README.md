@@ -18,3 +18,5 @@ The project is structured as follows:
 Make sure you have Python installed on your system. You can check your version by running:
 ```bash
 python --version
+* **`Task3.py`**: A cryptographically secure random password generator with custom character set toggles, bulk generation, automatic clipboard copying, and live safety validation bounds.
+* **`passwords_log.txt`**: Automatically stores timestamped performance and security strength metadata for all generated credentials.
