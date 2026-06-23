@@ -16,7 +16,27 @@ The project is structured as follows:
 
 ## 🚀 Getting Started
 
-### Prerequisites
-Make sure you have Python installed on your system. You can check your version by running:
+Follow these steps to get a local copy of the repository up and running on your machine.
+
+### 📋 Prerequisites
+Make sure you have Python installed on your system. You can verify your installation by opening a terminal and running:
 ```bash
 python --version
+```
+
+### ⚙️ Installation & Setup
+1. **Clone the repository:** Open your terminal or command prompt and run the following command:
+   ```bash
+   git clone [https://github.com/asfahashmi44-coder/Decode-Labs-Tasks.git](https://github.com/asfahashmi44-coder/Decode-Labs-Tasks.git)
+   ```
+2. **Navigate to the project folder:**
+   ```bash
+   cd Decode-Labs-Tasks
+   ```
+
+### 🎮 Running the Tasks
+You can run any of the assignment files directly using Python. For example, to launch the **Cryptographic Password Generator**, execute:
+```bash
+python Task3.py
+```
+*(Simply replace `Task3.py` with `Task1.py` or `Task2.py` to run the other completed tasks!)*
