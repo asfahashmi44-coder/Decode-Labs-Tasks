@@ -10,6 +10,7 @@ The project is structured as follows:
 * **`Task2.py`**: Implementation of the second phase or second standalone task (e.g., asynchronous operations, programmatic logic, or data tracking).
 * **`Task3.py`**: A cryptographically secure random password generator with custom character set toggles, bulk generation, automatic clipboard copying, and live safety validation bounds.
 * **`passwords_log.txt`**: Automatically stores timestamped performance and security strength metadata for all generated credentials.
+* `Task4.py` : An interactive 10-question General Knowledge Quiz game demonstrating variables, state management, and robust conditional branching control flow logic.
 * **`README.md`**: Project documentation and overview.
 
 ---
