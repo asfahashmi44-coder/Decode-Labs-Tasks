@@ -25,15 +25,14 @@ Make sure you have Python installed on your system. You can verify your installa
 python --version
 ```
 
-### ⚙️ Installation & Setup
+## ⚙️ Installation & Setup
+
 1. **Clone the repository:** Open your terminal or command prompt and run the following command:
    ```bash
    git clone [https://github.com/asfahashmi44-coder/Decode-Labs-Tasks.git](https://github.com/asfahashmi44-coder/Decode-Labs-Tasks.git)
    ```
 2. **Navigate to the project folder:**
-   ```bash
    cd Decode-Labs-Tasks
-   ```
 
 ### 🎮 Running the Tasks
 
@@ -45,5 +44,5 @@ You can run any of the assignment files directly using Python. For example, to l
   python Task2.py
   python Task3.py
   python Task4.py
-  
+
 
