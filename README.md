@@ -36,9 +36,14 @@ python --version
    ```
 
 ### 🎮 Running the Tasks
-You can run any of the assignment files directly using Python. For example, to launch the **Cryptographic Password Generator**, execute:
-```bash
-python Task3.py
-* **Task4.py**: An interactive 10-question General Knowledge Quiz game demonstrating variables, state management, and robust conditional branch handling flow logic.
-```
-*(Simply replace `Task3.py` with `Task1.py` or `Task2.py` to run the other completed tasks!)*
+
+You can run any of the assignment files directly using Python. For example, to launch a specific task, execute the corresponding command in your terminal:
+
+* **Task 1:**
+  ```bash
+  python Task1.py
+  python Task2.py
+  python Task3.py
+  python Task4.py
+  
+
